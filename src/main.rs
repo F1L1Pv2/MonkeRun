@@ -5,6 +5,9 @@ pub mod game_init;
 pub mod game_loop;
 pub mod game_event;
 
+pub mod game;
+pub mod menu;
+
 fn main() {
     let cam_offset = [0.0, 1.35, -5.0];
 
@@ -16,6 +19,8 @@ fn main() {
 
     let mut acc = 0.0;
 
+    let mut dt = 0.0;
+
     init_engine!(
         game_loop!(
             game_loop::game_loop,
@@ -23,7 +28,8 @@ fn main() {
             &mut state,
             &mut game_events,
             &mut last_keys,
-            &mut acc
+            &mut acc,
+            &mut dt
         ),
         game_init!(game_init::game_init, cam_offset),
         "assets"

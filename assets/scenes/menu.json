@@ -1,0 +1,28 @@
+[
+    {
+        "MenuSuzanne": {
+            "model_path": "/models/MenuSuzanne.obj",
+            "texture_path": null,
+            "model_matrix": {
+                "position": [
+                    0.0,
+                    -3.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    3.1415929794311523
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "tags": [
+                "rotate"
+            ]
+        }
+    }
+]
