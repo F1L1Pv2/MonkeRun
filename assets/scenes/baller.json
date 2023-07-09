@@ -464,32 +464,6 @@
         }
     },
     {
-        "Floor.018": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -12.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.019": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
@@ -600,32 +574,6 @@
             "model_matrix": {
                 "position": [
                     0.0,
-                    -16.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.025": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
                     -16.0,
                     -1.2999999523162842
                 ],
@@ -776,32 +724,6 @@
         }
     },
     {
-        "Floor.032": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    -2.0,
-                    -20.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.033": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
@@ -860,32 +782,6 @@
             "model_matrix": {
                 "position": [
                     0.0,
-                    -24.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.037": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
                     -24.0,
                     -1.2999999523162842
                 ],
@@ -965,32 +861,6 @@
                 "position": [
                     -2.0,
                     -26.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.042": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -28.0,
                     -1.2999999523162842
                 ],
                 "rotation": [
@@ -1218,32 +1088,6 @@
         }
     },
     {
-        "Floor.052": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
-                    -34.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.053": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
@@ -1354,32 +1198,6 @@
             "model_matrix": {
                 "position": [
                     2.0,
-                    -38.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.059": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    -2.0,
                     -38.0,
                     -1.2999999523162842
                 ],
@@ -1556,32 +1374,6 @@
         }
     },
     {
-        "Floor.067": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
-                    -44.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.068": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
@@ -1719,32 +1511,6 @@
                 "position": [
                     -2.0,
                     -48.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.075": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -50.0,
                     -1.2999999523162842
                 ],
                 "rotation": [
@@ -2050,32 +1816,6 @@
         }
     },
     {
-        "Floor.088": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
-                    -58.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.089": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
@@ -2284,32 +2024,6 @@
         }
     },
     {
-        "Floor.098": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    -2.0,
-                    -64.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.099": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
@@ -2440,32 +2154,6 @@
         }
     },
     {
-        "Floor.105": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -70.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.107": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
@@ -2498,32 +2186,6 @@
             "model_matrix": {
                 "position": [
                     0.0,
-                    -72.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.109": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
                     -72.0,
                     -1.2999999523162842
                 ],
@@ -2596,64 +2258,12 @@
         }
     },
     {
-        "Floor.114": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -76.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.115": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
             "model_matrix": {
                 "position": [
                     2.0,
-                    -76.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.116": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    -2.0,
                     -76.0,
                     -1.2999999523162842
                 ],
@@ -2804,32 +2414,6 @@
         }
     },
     {
-        "Floor.123": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -82.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.125": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
@@ -2862,32 +2446,6 @@
             "model_matrix": {
                 "position": [
                     0.0,
-                    -84.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.127": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
                     -84.0,
                     -1.2999999523162842
                 ],
@@ -2960,64 +2518,12 @@
         }
     },
     {
-        "Floor.132": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -88.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.133": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
             "model_matrix": {
                 "position": [
                     2.0,
-                    -88.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.134": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    -2.0,
                     -88.0,
                     -1.2999999523162842
                 ],
@@ -3123,58 +2629,6 @@
                 "position": [
                     -2.0,
                     -92.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.141": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -94.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.142": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
-                    -94.0,
                     -1.2999999523162842
                 ],
                 "rotation": [
@@ -3324,32 +2778,6 @@
         }
     },
     {
-        "Floor.149": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    -2.0,
-                    -98.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.150": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
@@ -3408,32 +2836,6 @@
             "model_matrix": {
                 "position": [
                     0.0,
-                    -102.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.154": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
                     -102.0,
                     -1.2999999523162842
                 ],
@@ -3610,32 +3012,6 @@
         }
     },
     {
-        "Floor.162": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -108.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.163": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
@@ -3695,58 +3071,6 @@
                 "position": [
                     -2.0,
                     -110.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.168": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -112.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.169": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
-                    -112.0,
                     -1.2999999523162842
                 ],
                 "rotation": [
@@ -3922,32 +3246,6 @@
         }
     },
     {
-        "Floor.178": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
-                    -118.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
         "Floor.180": {
             "model_path": "/models/Floor.obj",
             "texture_path": "/sprites/wood.png",
@@ -3980,32 +3278,6 @@
             "model_matrix": {
                 "position": [
                     2.0,
-                    -120.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.182": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    -2.0,
                     -120.0,
                     -1.2999999523162842
                 ],
@@ -4111,162 +3383,6 @@
                 "position": [
                     -2.0,
                     -124.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.189": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -126.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.190": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
-                    -126.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.191": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    -2.0,
-                    -126.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.192": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    0.0,
-                    -128.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.193": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    2.0,
-                    -128.0,
-                    -1.2999999523162842
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "scale": [
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "tags": [
-                "physic"
-            ]
-        }
-    },
-    {
-        "Floor.194": {
-            "model_path": "/models/Floor.obj",
-            "texture_path": "/sprites/wood.png",
-            "model_matrix": {
-                "position": [
-                    -2.0,
-                    -128.0,
                     -1.2999999523162842
                 ],
                 "rotation": [
