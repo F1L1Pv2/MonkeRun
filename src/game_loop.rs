@@ -105,8 +105,9 @@ pub fn game_loop(
         if check_aabb_col(player_aabb, obj.get_aabb()) {
             //check if tag "die" is present
             if obj.tags.contains(&"die".to_string()) {
-                // shutdown program
-                std::process::exit(0);
+                std::process::exit(69);
+
+                //TODO: add game over screen
             }
 
             *acc = 0.0;
@@ -144,6 +145,15 @@ pub fn game_loop(
     // *acc = 0.0;
     // }
     // });
+
+    // win ------------------------------------------------------------------------
+
+    if game.camera.player_pos[2] >= 130.0{
+        std::process::exit(0);
+
+        //TODO: add win screen
+    }
+
 
     // debug ui -------------------------------------------------------------------
 
