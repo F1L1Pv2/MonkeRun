@@ -44,7 +44,7 @@ checksum = "23b62fc65de8e4e7f52534fb52b0f3ed04746ae267519eef2a83941e8085068b"
 [[package]]
 name = "ascii_opengl_rust"
 version = "0.1.0"
-source = "git+https://github.com/F1L1Pv2/AsciiOpengl-Rust#b7c9fec69579b2e578a7e367c5c75f659592a1ff"
+source = "git+https://github.com/F1L1Pv2/AsciiOpengl-Rust#fbd1da4789dd3151b57f59bf7b7c5c38965a472c"
 dependencies = [
  "device_query",
  "fontdue",
