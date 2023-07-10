@@ -92,9 +92,9 @@ pub fn game_loop(
     let assets_path = game.assets_path.clone();
 
 
-    game.add_ui_elem(draw_rect(0.25, 0.0, 0.5, 0.25, (assets_path.clone()+"/sprites/title.png").as_str(),TextureFilter::Linear, display));
-    game.add_ui_elem(draw_rect(0.0, 0.3, 0.35, 0.45, (assets_path.clone()+"/sprites/keybindings.png").as_str(),TextureFilter::Linear, display));
-    game.add_ui_elem(draw_rect(0.30, 0.85, 0.4, 0.1, (assets_path+"/sprites/startbutton.png").as_str(),TextureFilter::Linear, display));
+    game.add_ui_elem(draw_rect(0.25, 0.0, 0.5, 0.25, (assets_path.clone()+"/sprites/title.png").as_str(),TextureFilter::Nearest, display));
+    game.add_ui_elem(draw_rect(0.0, 0.3, 0.35, 0.45, (assets_path.clone()+"/sprites/keybindings.png").as_str(),TextureFilter::Nearest, display));
+    game.add_ui_elem(draw_rect(0.30, 0.85, 0.4, 0.1, (assets_path+"/sprites/startbutton.png").as_str(),TextureFilter::Nearest, display));
 
     // let font = Font::from_bytes(
     //     include_bytes!("../assets/fonts/Roboto-Regular.ttf") as &[u8],
