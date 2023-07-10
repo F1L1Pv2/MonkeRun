@@ -19,7 +19,7 @@ pub fn game_loop(
     let scene_index = game.get_scene_index();
 
     match scene_index {
-        0 => crate::menu::game_loop(device_state, game, display,terminal_res, game_events, last_keys, dt),
+        0 => crate::menu::game_loop(device_state, game, display,terminal_res, game_events, last_keys, dt, state,acc),
         1 => crate::game::game_loop(device_state, terminal_res, game, display, cam_offset, state, game_events, last_keys, acc),
         _ => ()
     }

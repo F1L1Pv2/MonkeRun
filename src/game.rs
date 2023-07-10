@@ -30,6 +30,10 @@ pub fn game_loop(
     acc: &mut f32
 ) {
 
+    // let fixed_timestep = std::time::Duration::from_nanos(16_666_667).as_secs_f32();
+    // let delta_time = game.delta_time.clone();
+
+
     let mut break_run = false;
 
     let gravity = -0.01;

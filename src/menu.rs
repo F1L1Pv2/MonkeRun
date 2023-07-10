@@ -16,7 +16,9 @@ pub fn game_loop(
     terminal_size: (u32,u32),
     game_events: &mut Vec<GameEvent>,
     last_keys: &mut Vec<Keycode>,
-    dt: &mut f32
+    dt: &mut f32,
+    state: &mut i8,
+    acc: &mut f32
 ) {
 
     let mut break_run = false;
@@ -34,6 +36,9 @@ pub fn game_loop(
                     Keycode::Space => {
 
                         game.get_scene_by_index_mut(1).get_mut_objects_by_tags(vec!["player"])[0].model = model_matrix(&[0.0, 1.0, 0.0], &[0.0, 0.0, 0.0], &[1.0, 1.0, 1.0]);
+                        *state = 0;
+                        *acc = 0.0;
+
 
                         game.set_scene(1);
                         break_run = true;
