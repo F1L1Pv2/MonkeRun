@@ -1,6 +1,6 @@
 //game_event.rs
 
-use device_query::{Keycode};
+use device_query::Keycode;
 
 pub enum GameEvent{
     KeyUp(KeyUpEvent),
