@@ -1,0 +1,52 @@
+[
+    {
+        "LoseSuzanne": {
+            "model_path": "/models/LoseSuzanne.obj",
+            "texture_path": null,
+            "model_matrix": {
+                "position": [
+                    0.0,
+                    -4.401399612426758,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    3.1415929794311523
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "tags": [
+                "rotate"
+            ]
+        }
+    },
+    {
+        "LoseCube": {
+            "model_path": "/models/LoseCube.obj",
+            "texture_path": "/sprites/lava.png",
+            "model_matrix": {
+                "position": [
+                    0.0,
+                    -4.436316013336182,
+                    -2.131453037261963
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "tags": []
+        }
+    }
+]

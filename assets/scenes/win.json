@@ -1,0 +1,104 @@
+[
+    {
+        "WinSuzanne.001": {
+            "model_path": "/models/WinSuzanne.obj",
+            "texture_path": null,
+            "model_matrix": {
+                "position": [
+                    2.700000047683716,
+                    -4.159743309020996,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    -3.1415929794311523
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "tags": [
+                "rotate"
+            ]
+        }
+    },
+    {
+        "WinSuzanne.002": {
+            "model_path": "/models/WinSuzanne.obj",
+            "texture_path": null,
+            "model_matrix": {
+                "position": [
+                    -2.700000047683716,
+                    -4.159743309020996,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    -3.1415929794311523
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "tags": [
+                "rotate"
+            ]
+        }
+    },
+    {
+        "trophy": {
+            "model_path": "/models/trophy.obj",
+            "texture_path": "/sprites/gold.png",
+            "model_matrix": {
+                "position": [
+                    1.1124148713292925e-08,
+                    -3.9526262283325195,
+                    -1.0
+                ],
+                "rotation": [
+                    1.570796251296997,
+                    -0.0,
+                    -1.5707964897155762
+                ],
+                "scale": [
+                    0.5519979596138,
+                    0.5519979596138,
+                    0.5519979596138
+                ]
+            },
+            "tags": []
+        }
+    },
+    {
+        "end": {
+            "model_path": "/models/end.obj",
+            "texture_path": "/sprites/grass.png",
+            "model_matrix": {
+                "position": [
+                    1.502480984072463e-08,
+                    -3.908007860183716,
+                    -1.600000023841858
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0,
+                    -3.1415929794311523
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "tags": [
+                "physic"
+            ]
+        }
+    }
+]

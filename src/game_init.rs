@@ -10,7 +10,9 @@ pub fn game_init(_terminal_res: (u32, u32),game: &mut Game, display: &glium::Dis
 
     game.add_scene(Scene::load_from_json("/scenes/baller.json",game.assets_path.as_str(), display).unwrap());
     
-    
+    game.add_scene(Scene::load_from_json("/scenes/win.json", game.assets_path.as_str(), display).unwrap());
+
+    game.add_scene(Scene::load_from_json("/scenes/lose.json", game.assets_path.as_str(), display).unwrap());
     // let player_pos = game.get_scene().get_objects_by_tags(vec!["player"])[0].model[3];
 
     // game.camera.player_pos = [cam_offset[0],cam_offset[1],cam_offset[2]];

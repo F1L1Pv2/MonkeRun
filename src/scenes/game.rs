@@ -85,8 +85,6 @@ pub fn game_loop(
             if obj.tags.contains(&"die".to_string()) {
                 break_run =true;
                 return;
-
-                //TODO: add game over screen
             }
 
             *acc = 0.0;
@@ -100,7 +98,7 @@ pub fn game_loop(
     });
 
     if break_run {
-        game.set_scene(0);
+        game.set_scene(3);
         return;
     }
 
@@ -123,11 +121,9 @@ pub fn game_loop(
     // win ------------------------------------------------------------------------
 
     if game.camera.player_pos[2] >= 130.0{
-        game.set_scene(0);
+        game.set_scene(2);
 
         break_run = true;
-
-        //TODO: add win screen
     }
 
     if break_run{

@@ -1,7 +1,7 @@
 extern crate device_query;
 use device_query::{ DeviceState, DeviceQuery, Keycode };
 use ascii_opengl_rust::engine::core::Game;
-
+use ascii_opengl_rust::engine::matrices::model_matrix;
 use crate::game_event::{GameEvent, KeyDownEvent, KeyUpEvent};
 
 pub fn game_loop(
@@ -35,14 +35,26 @@ pub fn game_loop(
 
     *last_keys = keys.clone();
 
+    // additional stuff -----------------------------------------------------------
+
+    let mut rotate_objs = game.get_scene_mut().get_mut_objects_by_tags(vec!["rotate"]);
+
+    rotate_objs.iter_mut().for_each(|obj| {
+        let obj_pos = obj.model[3];
+
+        obj.model = model_matrix(&[obj_pos[0], obj_pos[1], obj_pos[2]], &[0.0, *dt/60.0, 0.0], &[1.0, 1.0, 1.0]);
+    });
+
 
     // scene handler ---------------------------------------------------------------
 
     let scene_index = game.get_scene_index();
 
     match scene_index {
-        0 => crate::scenes::menu::game_loop(game, display,terminal_res, game_events, dt, state,acc),
+        0 => crate::scenes::menu::game_loop(game, display,terminal_res, game_events, state,acc),
         1 => crate::scenes::game::game_loop(terminal_res, game, display, cam_offset, state, game_events, acc),
+        2 => crate::scenes::win::game_loop(game, display,terminal_res, game_events),
+        3 => crate::scenes::lose::game_loop(game, display,terminal_res, game_events),
         _ => ()
     }
 
