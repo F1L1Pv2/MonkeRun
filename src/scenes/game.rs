@@ -152,7 +152,7 @@ pub fn game_loop(
     );
 
     let font = Font::from_bytes(
-        include_bytes!("../assets/fonts/Roboto-Regular.ttf") as &[u8],
+        include_bytes!("../../assets/fonts/Roboto-Regular.ttf") as &[u8],
         fontdue::FontSettings::default()
     ).unwrap();
 

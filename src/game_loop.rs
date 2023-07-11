@@ -41,8 +41,8 @@ pub fn game_loop(
     let scene_index = game.get_scene_index();
 
     match scene_index {
-        0 => crate::menu::game_loop(game, display,terminal_res, game_events, dt, state,acc),
-        1 => crate::game::game_loop(terminal_res, game, display, cam_offset, state, game_events, acc),
+        0 => crate::scenes::menu::game_loop(game, display,terminal_res, game_events, dt, state,acc),
+        1 => crate::scenes::game::game_loop(terminal_res, game, display, cam_offset, state, game_events, acc),
         _ => ()
     }
 

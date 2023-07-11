@@ -5,8 +5,7 @@ pub mod game_init;
 pub mod game_loop;
 pub mod game_event;
 
-pub mod game;
-pub mod menu;
+pub mod scenes;
 
 fn main() {
     let cam_offset = [0.0, 1.35, -5.0];
