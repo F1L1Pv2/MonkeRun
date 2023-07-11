@@ -47,8 +47,6 @@ pub fn game_loop(
         }
     });
 
-    game_events.clear();
-
     if break_run {
         return;
     }

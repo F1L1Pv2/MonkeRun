@@ -62,8 +62,6 @@ pub fn game_loop(
         }
     });
 
-    game_events.clear();
-
     // player movement -----------------------------------------------------------
 
     *acc += gravity;

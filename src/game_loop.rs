@@ -46,5 +46,7 @@ pub fn game_loop(
         _ => ()
     }
 
+    game_events.clear();
+
     *dt += 1.0;
 }
