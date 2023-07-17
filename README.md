@@ -9,4 +9,4 @@ currently doesnt work good in Windows.
 - Fast Terminal
 - True Color Terminal
 
-Preview Video: <https://www.youtube.com/watch?v=FQeXvzNCh-M>
+Preview Video: <https://www.youtube.com/watch?v=C6Ji057v1QA>
